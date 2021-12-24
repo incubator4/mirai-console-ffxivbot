@@ -4,3 +4,5 @@
 [![GitHub all releases](https://img.shields.io/github/downloads/incubator4/mirai-console-ffxivbot/total)](https://github.com/Samarium150/mirai-console-lolicon/releases/latest)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSamarium150%2Fmirai-console-lolicon.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSamarium150%2Fmirai-console-lolicon?ref=badge_shield)
 
+一个接入https://xivapi.com API的bot  
+默认使用的是国内的mirror https://cafemaker.wakingsands.com
